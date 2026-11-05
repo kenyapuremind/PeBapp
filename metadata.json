@@ -1,0 +1,8 @@
+{
+  "name": "BiasharaFlow ERP & Accounting",
+  "description": "Mobile and web business accounting suite for Kenyan and regional enterprises. Track sales, expenses, stock movements, generate balance sheets, P&L, trial balance, accounts payables and receivables, and print or email VAT-compliant invoices and receipts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
